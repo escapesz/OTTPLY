@@ -332,9 +332,6 @@ http://51.89.148.37:8080/catena-9-101-streamer-bein_sports_2_fhd/tracks-v1a1a2a3
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES", SONY PIX HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extension=ts&play_token=4hSc0OdPLE
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , SINE MANILA
-http://cf.10159875.cloud:80/play/live.php?mac=00:1A:79:12:5A:DC&stream=440660&extension=ts&play_token=ebD0A4JSHI
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" , DAZN FAST+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
