@@ -88,15 +88,6 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENT", USA REELZ
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", PARAMOUNT SHOWTIME
-http://40.160.24.55/SHOWTIME/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME 2 HD
-http://40.160.24.55/SHOWTIME_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME EXTREME HD
-http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME FAMILY ZONE HD
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
@@ -131,15 +122,6 @@ http://stream.cammonitorplus.net/1765/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="MOVIES", 24 HOUR FREE MOVIES
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME 2 LOCAL
-https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME EXTREME
-https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", MOTORTREND
-https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES", HBO LOCAL
 http://136.239.158.10:6610/001/2/ch00000090990000001065/sec-f2-v1-a1.m3u8?JITPDRMType=NO&version=v1.0&IASHttpSessionId=OTT392669120260820010738097479&programid=ch00000000000000001085&virtualDomain=001.live_hls.zte.com&recommendtype=0&BreakPoint=0&profilecode=&userid=1362658369654&videoid=ch00000090990000001065&usersessionid=UVJL5F87UVBXXX&ispcode=55&terminalflag=1&NeedJITP=1&stbid=02:00:00:00:00:00&boid=001&AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&m3u8_level=2&contentid=ch00000000000000001085&JITPMediaType=HLS&ztecid=ch00000090990000001065
