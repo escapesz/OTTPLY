@@ -3,6 +3,11 @@ name: Update Combined M3U
 on:
   workflow_dispatch:
 
+  push:
+    paths:
+      - "my_channels.m3u"
+      - "combine.py"
+
   schedule:
     - cron: "*/30 * * * *"
 
