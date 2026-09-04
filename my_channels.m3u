@@ -27,21 +27,6 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
-#EXTINF:-1 tvg-id="" group-title="MOVIES, STAR MARGARINE
-https://ott.djdoolky76.io/api/streams/100/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODQ2MDY0OSwiZXhwIjoxNzkwNTUzNTk5fQ.zYZCDheDSp0BDnQTTnI7L54WiN5caPntzM3uPovHENM
-
-#EXTINF:-1 tvg-id="" group-title="NEWS,Abante TV 
-https://streams.comclark.com/transcodesd/abante/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="NEWS",ANC LOCAL
-https://streams.comclark.com/pknsd/anc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",TV5 LOCAL
-https://streams.comclark.com/pknsd/tv5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",RPTV LOCAL
-https://streams.comclark.com/pknsd/rptv/playlist.m3u8
-
 #EXTINF:-1 group-title="MOVIES", CINEMAX
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
@@ -208,12 +193,6 @@ https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.ne.../v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="KIDS",Disney Channel HD
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", WORLD CUP 2026
-https://wccdn.djdoolky76.net/stream/wctv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="SPORTS",FIFA WC 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -233,20 +212,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 #KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="SPORTS", FIFA WC 2026 SporTV 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 (FOX SPORTS)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png", Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -284,10 +249,10 @@ https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",Star Movies 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",Star Movies Local
 http://66.102.126.10:8000/play/a021/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="MOVIES",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="MOVIES",Star Movies Select HD Local
 http://66.102.126.10:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIESPEHERE
