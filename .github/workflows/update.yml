@@ -1,3 +1,4 @@
+```yaml
 name: Update Combined M3U
 
 on:
@@ -11,6 +12,10 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -21,6 +26,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Combine playlists
         run: python combine.py
@@ -36,5 +43,9 @@ jobs:
             echo "No changes detected."
           else
             git commit -m "Update combined playlist"
-            git push
+
+            git pull --rebase origin main
+
+            git push origin main
           fi
+```
