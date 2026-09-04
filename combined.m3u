@@ -27,6 +27,9 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-id="" group-title="MOVIES,star ng movies
+https://ott.djdoolky76.io/api/streams/100/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODQ2MDY0OSwiZXhwIjoxNzkwNTUzNTk5fQ.zYZCDheDSp0BDnQTTnI7L54WiN5caPntzM3uPovHENM
+
 #EXTINF:-1 tvg-id="" group-title="NEWS,Abante TV 
 https://streams.comclark.com/transcodesd/abante/playlist.m3u8
 
