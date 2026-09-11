@@ -94,6 +94,11 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", A&E HD
 http://23.239.31.26:8989/aande/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NEWS", ABANTE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/cg_abante_news/default/index.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", WARNER CH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
