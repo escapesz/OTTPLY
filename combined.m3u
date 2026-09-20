@@ -125,29 +125,36 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="SPORTS", BELLATOR
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBC LOCAL
-http://stream.cammonitorplus.net/1765/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="MOVIES", 24 HOUR FREE MOVIES
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-
 #EXTINF:-1 group-title="MOVIES", HBO LOCAL
 http://136.239.158.10:6610/001/2/ch00000090990000001065/sec-f2-v1-a1.m3u8?JITPDRMType=NO&version=v1.0&IASHttpSessionId=OTT392669120260820010738097479&programid=ch00000000000000001085&virtualDomain=001.live_hls.zte.com&recommendtype=0&BreakPoint=0&profilecode=&userid=1362658369654&videoid=ch00000090990000001065&usersessionid=UVJL5F87UVBXXX&ispcode=55&terminalflag=1&NeedJITP=1&stbid=02:00:00:00:00:00&boid=001&AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&m3u8_level=2&contentid=ch00000000000000001085&JITPMediaType=HLS&ztecid=ch00000090990000001065
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO ZONE
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="Starz.HD.us2" tvg-name="STARZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",STARZ
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/9pbvtd8ohr1j3.m3u8?s=yDUH-y1F2frP2dct0sSVww&e=1789893022
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ ENCORE
-https://restream-live.realiptv.to/09145054/65339468/3950
+#EXTINF:-1 tvg-chno="214" tvg-id="Starz.Encore.Action.HD.us2" tvg-name="STARZ ENCORE ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-action-us.png" group-title="MOVIES",STARZ ENCORE ACTION
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/6rzb5h38rx5y5.m3u8?s=HzxF2eWv1sqfW1hO8QBIZQ&e=1789893025
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", 
+#EXTINF:-1 tvg-chno="213" tvg-id="Starz.Encore.HD.us2" tvg-name="STARZ ENCORE" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="MOVIES",STARZ ENCORE
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/mbfricrjvkn2f.m3u8?s=ajRF8Nl-tjiTvGxCB_NZAA&e=1789893012
+
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ EDGE
-https://restream-live.realiptv.to/09145054/65339468/3961
+#EXTINF:-1 tvg-chno="212" tvg-id="Starz.Edge.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="MOVIES", STARZ EDGE
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/vg4qe0z2z8raf.m3u8?s=gozgHdkLJ7Dr1plyWnAx3Q&e=1789893086
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -239,12 +246,6 @@ https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",Star Movies Local
-http://66.102.126.10:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="MOVIES",Star Movies Select HD Local
-http://66.102.126.10:8000/play/a020/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIESPEHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
@@ -304,17 +305,11 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/onesports_qp.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYKmud53U1oiKZlvozPhgBhrLr6rpNVCoeQ&usqp=CAU" group-title="SPORTS", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", MOTOAMERICA
-https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
-
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="NEWS",CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" tvg-name="BBC World News" group-title="NEWS",BBC WORLD NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" tvg-name="ALJAZEERA" group-title="NEWS",ALJAZEERA
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -336,11 +331,10 @@ https://4169it.7odxv0l067ka.net:8443/hls/qjn80rbplb339.m3u8?s=k8L2MARb8RTPCqpzoA
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", BEIN SPORTS 2
-http://51.89.148.37:8080/catena-9-101-streamer-bein_sports_2_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES", SONY PIX HD
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extension=ts&play_token=4hSc0OdPLE
+#EXTINF:-1 tvg-chno="21" group-title="SPORTS" tvg-id="beIN.Sports.USA.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76942_dark_360w_270h.png" group-title="TV",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://lineagest.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4169it.7odxv0l067ka.net:8443/hls/g8yjusivmv2pw.m3u8?s=JHAx9hyeTF4tUdLeRkR-Hw&e=1789893075
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" , DAZN FAST+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
