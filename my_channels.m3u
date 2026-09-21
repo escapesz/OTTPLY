@@ -73,40 +73,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", NICK JR LOCAL
-http://40.160.24.55/NICK_JR/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KIDS", NICKELODEON
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ONE AMERICA NEWS
-http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ENT", OUTDOOR CHANNEL
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", OVATION
-http://40.160.24.55/OVATION/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ENT", OXYGEN
-http://40.160.24.55/OXYGEN/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ENT", USA PARAMOUNT NETWORK
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ENT", USA REELZ
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME FAMILY ZONE HD
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", A&E HD
 http://23.239.31.26:8989/aande/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS", ABANTE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/cg_abante_news/default/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", WARNER CH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -117,13 +94,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23345.ts?thanos1975 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV5
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15915.ts?thanos1975 
-
-#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FX 
-http://23.237.104.106:8080/USA_FX/index.m3u8
-
-#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FXX 
-http://23.237.104.106:8080/USA_FXX/index.m3u8
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15915.ts?thanos1975
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
