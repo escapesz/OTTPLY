@@ -114,30 +114,8 @@ http://136.239.158.10:6610/001/2/ch00000090990000001065/sec-f2-v1-a1.m3u8?JITPDR
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO ZONE
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-id="Starz.HD.us2" tvg-name="STARZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",STARZ
-#EXTVLCOPT:http-referrer=https://lineagest.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4169it.7odxv0l067ka.net:8443/hls/9pbvtd8ohr1j3.m3u8?s=yDUH-y1F2frP2dct0sSVww&e=1789893022
-
-#EXTINF:-1 tvg-chno="214" tvg-id="Starz.Encore.Action.HD.us2" tvg-name="STARZ ENCORE ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-action-us.png" group-title="MOVIES",STARZ ENCORE ACTION
-#EXTVLCOPT:http-referrer=https://lineagest.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4169it.7odxv0l067ka.net:8443/hls/6rzb5h38rx5y5.m3u8?s=HzxF2eWv1sqfW1hO8QBIZQ&e=1789893025
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", 
-#EXTINF:-1 tvg-chno="213" tvg-id="Starz.Encore.HD.us2" tvg-name="STARZ ENCORE" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="MOVIES",STARZ ENCORE
-#EXTVLCOPT:http-referrer=https://lineagest.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4169it.7odxv0l067ka.net:8443/hls/mbfricrjvkn2f.m3u8?s=ajRF8Nl-tjiTvGxCB_NZAA&e=1789893012
-
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-chno="212" tvg-id="Starz.Edge.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="MOVIES", STARZ EDGE
-#EXTVLCOPT:http-referrer=https://lineagest.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4169it.7odxv0l067ka.net:8443/hls/vg4qe0z2z8raf.m3u8?s=gozgHdkLJ7Dr1plyWnAx3Q&e=1789893086
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -163,43 +141,18 @@ http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/ind
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",SONY MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Animal Planet HD
+#EXTINF:-1 tvg-logo="" group-title="ENT",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",WORLD CUP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="SPORTS",FIFA WC 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", FIFA WC 2026 DSPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="SPORTS", PTV Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png", Astro Showcase
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png", Astro Showcase LOC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",411 Astro Showtime
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png", Astro Showtime LOC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7RJVdgSDgSHZlvDXg3nKow","kid":"aZ-4LHCn7Cl_M6pEI7q1EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -208,26 +161,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 #EXTINF:-1 tvg-id="" group-title="ENT" , InTravel (1080p)
 #EXTVLCOPT:network-caching=1000
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local", TNT 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local", TNT 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local", TNT 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local", TNT 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", MOVIESPEHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -255,16 +188,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="NEWS",ANC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d922d79d9b554c29a31d5b7eace0694a:420ef31558f07c96bba045cffd50ad75
-https://abslive.akamaized.net/dash/live/2027618/anc-ph-dash/manifest.mpd
-
-#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="LOCAL",CINEMAONE TFC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS", MR. Bean
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -306,18 +229,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-name="" group-title="MOVIES", AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="107" tvg-id="HBO.East.us2" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO EAST
-#EXTVLCOPT:http-referrer=https://lineagest.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4169it.7odxv0l067ka.net:8443/hls/qjn80rbplb339.m3u8?s=k8L2MARb8RTPCqpzoAZxKA&e=1789893028
-
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-
-#EXTINF:-1 tvg-chno="21" group-title="SPORTS" tvg-id="beIN.Sports.USA.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76942_dark_360w_270h.png" group-title="TV",BEIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://lineagest.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4169it.7odxv0l067ka.net:8443/hls/g8yjusivmv2pw.m3u8?s=JHAx9hyeTF4tUdLeRkR-Hw&e=1789893075
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" , DAZN FAST+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3272,7 +3185,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://share.google/WAzIXP18OAfDk2K6m" group-title="SPORTS",NCAA NXT
+#EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://logos.fandom.com/wiki/NCAA_NXT" group-title="SPORTS",NCAA NXT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84f2a917c364e58b10963a7f2c8d451:e75d40a44350a148b32ad27081eadacb
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ncaa/default/index.mpd?hdnts=st=1789047885~exp=1789048005~acl=/bpk-tv/cg_ncaa/default/*~id=IT6OdRzqpaP6053diFH2t-pZVnIWiasjIZ-hbl27lBoMEHc~hmac=85ec19765a45b5f761ab23cf6d0a808e6cd82e174b3f0088f9c9279e6279c787
