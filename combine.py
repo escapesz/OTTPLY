@@ -2,6 +2,7 @@ import urllib.request
 
 EXTERNAL_M3U_1 = "https://raw.githubusercontent.com/ryansnetcafe/ott-playlist/refs/heads/main/ryansnetcafe.m3u"
 EXTERNAL_M3U_2 = "https://cdn.djdoolky76.net/udptv/phc-free.m3u"
+EXTERNAL_M3U_3 = "https://raw.githubusercontent.com/princematthewpesigan9-ctrl/matt-tv-playlist/refs/heads/main/matttv_playlist_update_2026-09-19.m3u"
 
 LOCAL_M3U = "my_channels.m3u"
 OUTPUT_M3U = "combined.m3u"
@@ -24,9 +25,11 @@ local = open(LOCAL_M3U, "r", encoding="utf-8").read()
 
 external_1 = download(EXTERNAL_M3U_1)
 external_2 = download(EXTERNAL_M3U_2)
+external_3 = download(EXTERNAL_M3U_3)
 
 external_1 = clean_playlist(external_1)
 external_2 = clean_playlist(external_2)
+external_3 = clean_playlist(external_3)
 
 combined = (
     local.rstrip()
@@ -34,6 +37,8 @@ combined = (
     + external_1
     + "\n"
     + external_2
+    + "\n"
+    + external_3
     + "\n"
 )
 
