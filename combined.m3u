@@ -2522,7 +2522,7 @@ billed-msg="M3U PLAYLIST BY: MATT"
 
 **********LOCAL**********
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="LOCAL",Kapamilya Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="LOCAL",Kapamilya Channel 
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="LOCAL",GMA
@@ -2578,11 +2578,11 @@ http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87H
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjbvbMC6QPQjsgxZXHiAjG7EC7LPKXZprwstmV0XyLd1pazjMk9Dq7buyQ5c4Pszh6HlAb0cQFl-WRMPQ1YKXyreAHuAxs_QrxV7gXurgKfC-6KfwrSbRUorYv1XyM5EcpZ-xWPIJKE4fK_tXyfJX85JTZ2DxoINTGT6yNyHjojSD_WFMiZ1d27Hf7PvmI" tvg-logo-small="https://blogger.googleusercontent.com/img/a/AVvXsEjbvbMC6QPQjsgxZXHiAjG7EC7LPKXZprwstmV0XyLd1pazjMk9Dq7buyQ5c4Pszh6HlAb0cQFl-WRMPQ1YKXyreAHuAxs_QrxV7gXurgKfC-6KfwrSbRUorYv1XyM5EcpZ-xWPIJKE4fK_tXyfJX85JTZ2DxoINTGT6yNyHjojSD_WFMiZ1d27Hf7PvmI" group-title="LOCAL", I Heart Movies
-#EXTGRP:Not sorted
+#EXTGRP:LOCAL
 https://nokotan.anhkz.fr/feeds?channel_id=IHM
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEie_7cIli0m_8SWd-3wtmpRgAFwkzqn6wdR7HlsSWw4zB4knb1BrPn921MEO7POwHe-lpKued_bVMXO564WtRQZiOKV9Tgt7c1bSkd96kklzeE0zs1MUUG51G-FVDNv4Nbi1uq9JD7mWBpq5sVaq4m2qadUOE8Cx7JPBPkibPdRHPlOeq9ihkOhfVr6UfI" tvg-logo-small="https://blogger.googleusercontent.com/img/a/AVvXsEie_7cIli0m_8SWd-3wtmpRgAFwkzqn6wdR7HlsSWw4zB4knb1BrPn921MEO7POwHe-lpKued_bVMXO564WtRQZiOKV9Tgt7c1bSkd96kklzeE0zs1MUUG51G-FVDNv4Nbi1uq9JD7mWBpq5sVaq4m2qadUOE8Cx7JPBPkibPdRHPlOeq9ihkOhfVr6UfI" group-title="LOCAL",Heart of Asia
-#EXTGRP:Not sorted
+#EXTGRP:LOCAL
 https://nokotan.anhkz.fr/feeds?channel_id=HoA
 
 **********DOCUMENTARY**********
