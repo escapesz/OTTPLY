@@ -48,6 +48,11 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="ENT", DESTINATION_AMERICA
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES", MBC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad5456b6b7e64e00b9fd3b3ed85d1cc0:b5ac39a44d02c795d90147c061f7df18
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd
+
 #EXTINF:-1 group-title="MOVIES", StarzPlay Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771
