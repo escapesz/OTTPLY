@@ -1,7 +1,6 @@
 import urllib.request
 
 EXTERNAL_M3U_1 = "https://raw.githubusercontent.com/ryansnetcafe/ott-playlist/refs/heads/main/ryansnetcafe.m3u"
-EXTERNAL_M3U_2 = ""
 EXTERNAL_M3U_3 = "https://raw.githubusercontent.com/princematthewpesigan9-ctrl/matt-tv-playlist/refs/heads/main/matttv_playlist_update_2026-09-19.m3u"
 EXTERNAL_M3U_4 = "https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/playlist.m3u"
 
@@ -25,12 +24,12 @@ def clean_playlist(playlist):
 local = open(LOCAL_M3U, "r", encoding="utf-8").read()
 
 external_1 = download(EXTERNAL_M3U_1)
-external_2 = download(EXTERNAL_M3U_2)
+
 external_3 = download(EXTERNAL_M3U_3)
 external_4 = download(EXTERNAL_M3U_4)
 
 external_1 = clean_playlist(external_1)
-external_2 = clean_playlist(external_2)
+
 external_3 = clean_playlist(external_3)
 external_4 = clean_playlist(external_4)
 
@@ -39,8 +38,7 @@ combined = (
     + "\n"
     + external_1
     + "\n"
-    + external_2
-    + "\n"
+    
     + external_3
     + "\n"
     + external_4
