@@ -30,6 +30,13 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-id="ABANTE NEWS" tvg-name="ABANTE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="NEWS",ABANTE NEWS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_abante_news/default/index.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="ENT",  FASHION LOC
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
