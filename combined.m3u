@@ -30,6 +30,24 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-id="CAZETVBR.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="SPORTS",CAZE TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="CAZETV2BR.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="SPORTS",CAZE TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25e29a3ae3eedc673503096ab8179f5a:a4e004efbccd9823219db7ddea93f8be
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mhtoezwtr5/out/v1/bc4e3d26a68140e2bd257f843f40d885/cenc.mpd
+
+#EXTINF:-1 tvg-id="CAZETV3BR.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="SPORTS",CAZE TV 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dae7d37dc3129695521671bc863264:c7b9e01f0a4cadfad0c67d86eb7c8276
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ubkczc/out/v1/643cc7391b5c48af826b42ec34d7fdeb/cenc.mpd
+
 #EXTINF:-1 tvg-id="ABANTE NEWS" tvg-name="ABANTE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Cignal_logo.png/500px-Cignal_logo.png" group-title="NEWS",ABANTE NEWS
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2689,11 +2707,11 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3fc8640d17e3b038" tvg-name="Los Angeles Dodgers vs Milwaukee Brewers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB | Los Angeles Dodgers vs Milwaukee Brewers
+#EXTINF:-1 tvg-id="zerostreams.3fc8640d17e3b038" tvg-name="MLB — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB — Shared Feed — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f3340bcf197f0b1f" tvg-name="MLB — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.f3340bcf197f0b1f" tvg-name="MLB — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB — Shared Feed — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/mlb.m3u8
