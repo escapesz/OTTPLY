@@ -30,6 +30,12 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENT",Ghost are Real by WBTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f86038a199fe19ebfcf62fcdc5c84166:a8299b1005da0e4909a36c44cf0d6204
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/i9zfpopmu6/out/v1/adeb7ffaf8ec45c9913e4423a1ffd98f/cenc.mpd
+
 #EXTINF:-1 tvg-id="CAZETVBR.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="SPORTS",CAZE TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
