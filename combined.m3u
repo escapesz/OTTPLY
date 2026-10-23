@@ -2708,10 +2708,10 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-#EXTINF:-1 tvg-id="zerostreams.f76369747e03ba86" tvg-name="East Carolina vs Memphis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",East Carolina vs Memphis
+#EXTINF:-1 tvg-id="zerostreams.e65a9c93abb350bb" tvg-name="East Carolina vs Memphis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",East Carolina vs Memphis
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
+https://admin2.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b06f06f9d1c4b808" tvg-name="James Madison vs App State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",James Madison vs App State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -2756,10 +2756,14 @@ https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.733aa71ab0659e85" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://static.ppvservices.st/assets/thumb/81e3ec7559f480e71f649c37c8472230-thumbnail.jpg" group-title="NBA",Denver Nuggets vs Oklahoma City Thunder — Oct 23, 09:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTINF:-1 tvg-id="zerostreams.a54d3da1f5c324a8" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://static.ppvservices.st/assets/thumb/81e3ec7559f480e71f649c37c8472230-thumbnail.jpg" group-title="NBA",Denver Nuggets vs Oklahoma City Thunder — Oct 23, 09:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba2.m3u8
+https://admin.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6266c68084939ca2" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://static.ppvservices.st/assets/thumb/81e3ec7559f480e71f649c37c8472230-thumbnail.jpg" group-title="NBA",Denver Nuggets vs Oklahoma City Thunder — Oct 23, 09:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1cf74b68f690a8d8" tvg-name="New England Patriots vs Chicago Bears" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",New England Patriots vs Chicago Bears
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -2768,10 +2772,6 @@ https://admin.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.051d63e98c3291bc" tvg-name="New England Patriots vs Chicago Bears" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",New England Patriots vs Chicago Bears
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6d0fcd2a6a14a259" tvg-name="Anaheim Ducks vs New Jersey Devils" tvg-logo="https://static.ppvservices.st/assets/thumb/c72feb536aba1925195935f190d09bb5-thumbnail.jpg" group-title="NHL",Anaheim Ducks vs New Jersey Devils — Oct 23, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -2812,10 +2812,10 @@ https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.03a78129865f7624" tvg-name="Vegas Golden Knights vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/d327169808e1e0743764828e14b89ae3-thumbnail.jpg" group-title="NHL",Vegas Golden Knights vs St. Louis Blues — Oct 23, 08:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
+#EXTINF:-1 tvg-id="zerostreams.edeec59212620a5f" tvg-name="Vegas Golden Knights vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/d327169808e1e0743764828e14b89ae3-thumbnail.jpg" group-title="NHL",Vegas Golden Knights vs St. Louis Blues — Oct 23, 08:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
+https://admin.formaturamaxi.com.br/nhl7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7961bea63dd6f63a" tvg-name="Winnipeg Jets vs Dallas Stars" tvg-logo="https://static.ppvservices.st/assets/thumb/f534e3354d6129baa13a7bd70d90c36c-thumbnail.jpg" group-title="NHL",Winnipeg Jets vs Dallas Stars — Oct 23, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -2840,6 +2840,10 @@ https://admin2.formaturamaxi.com.br/tnt3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/cope.m3u8
+#EXTINF:-1 tvg-id="zerostreams.31e0e82635175b76" tvg-name="Flamengo vs Estudiantes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Flamengo vs Estudiantes — Oct 23, 08:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/espnbr.m3u8
 #EXTINF:-1 tvg-id="zerostreams.05a49f55c5704b2b" tvg-name="Flamengo vs Estudiantes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Flamengo vs Estudiantes — Oct 23, 08:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
