@@ -30,6 +30,12 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  STARMOVIES
+https://p4kp.rjmbts.workers.dev/349.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  STARMOVIES SELECT
+https://p4kp.rjmbts.workers.dev/353.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENT",Ghost are Real by WBTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,6 +232,9 @@ http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/ind
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",SONY MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SONY PIX HD1
+https://p4kp.rjmbts.workers.dev/22124.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENT",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
