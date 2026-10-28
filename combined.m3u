@@ -2913,6 +2913,10 @@ https://admin2.formaturamaxi.com.br/sportv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="zerostreams.1190d320b72eb859" tvg-name="Toronto FC vs DC United" tvg-logo="https://static.ppvservices.st/assets/thumb/e301cd85b7451376a16a264a2790fc37-thumbnail.jpg" group-title="Soccer",Toronto FC vs DC United — Oct 29, 07:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/abc.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3e5d8894d50e3045" tvg-name="Toronto FC vs DC United" tvg-logo="https://static.ppvservices.st/assets/thumb/e301cd85b7451376a16a264a2790fc37-thumbnail.jpg" group-title="Soccer",Toronto FC vs DC United — Oct 29, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -2925,6 +2929,10 @@ https://temp.formaturamaxi.com.br/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5aaef92bb8422d0b" tvg-name="Vancouver Whitecaps vs San Diego" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vancouver Whitecaps vs San Diego — Oct 29, 10:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/abc.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9a3655dac3974cfa" tvg-name="Vancouver Whitecaps vs San Diego" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vancouver Whitecaps vs San Diego — Oct 29, 10:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
