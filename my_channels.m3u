@@ -30,6 +30,9 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  BIG NETWORK
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN1
 https://tvsen5.aynaott.com/tsn1/index.m3u8
 
