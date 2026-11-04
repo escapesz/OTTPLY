@@ -2735,4 +2735,43 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
+#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="Buffalo vs Miami (OH)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Buffalo vs Miami (OH)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.07eb50d4599b1918" tvg-name="Election Night - Coverage" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Election Night - Coverage — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/abc.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5bfdd73708c7d529" tvg-name="Election Night - Coverage" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Election Night - Coverage — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/kcop.m3u8
+#EXTINF:-1 tvg-id="zerostreams.392d24fa5fe8a921" tvg-name="Election Night - Coverage" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Election Night - Coverage — Feed 3
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nbc.m3u8
+#EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="Ohio vs Akron" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Ohio vs Akron
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 tvg-id="zerostreams.44d26379923d5cc8" tvg-name="St. Louis Blues vs New York Rangers" tvg-logo="https://static.ppvservices.st/assets/thumb/3e7eea66736d0c305f66f0a8836af26a-thumbnail.jpg" group-title="NHL",NHL | St. Louis Blues vs New York Rangers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="Utah Mammoth vs Toronto Maple Leafs" tvg-logo="https://static.ppvservices.st/assets/thumb/df89df47912191d565a4d4a36295dd2c-thumbnail.jpg" group-title="NHL",NHL | Utah Mammoth vs Toronto Maple Leafs
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.237af14bac8c21ad" tvg-name="Vegas Golden Knights vs Pittsburgh Penguins" tvg-logo="https://static.ppvservices.st/assets/thumb/5a5fcd55d28d6d87c59e7d321a5a8953-thumbnail.jpg" group-title="NHL",NHL | Vegas Golden Knights vs Pittsburgh Penguins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c5e1539d121d72ad" tvg-name="Chapecoense vs Mirassol" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Chapecoense vs Mirassol
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 tvg-id="zerostreams.d0502e525e8137ca" tvg-name="Internacional vs Coritiba" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Internacional vs Coritiba
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/fana2.m3u8
