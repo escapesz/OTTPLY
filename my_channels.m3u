@@ -227,6 +227,9 @@ http://136.239.158.10:6610/001/2/ch00000090990000001065/sec-f2-v1-a1.m3u8?JITPDR
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO ZONE
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO ASIA HD
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
